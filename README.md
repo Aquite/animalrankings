@@ -1,4 +1,5 @@
 # animalrankings
 
-1. Cats
-2. Dogs
+1. Cat
+2. Every other animal
+3. Dogs
